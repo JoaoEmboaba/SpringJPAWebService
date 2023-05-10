@@ -1,0 +1,29 @@
+[33mcommit b1c92691cec280de166c8627e4579151e4606346[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: JoaoVitor83 <vititor666demon@gmail.com>
+Date:   Wed May 10 10:00:07 2023 -0300
+
+    Inserção da camada de serviços e de mais um endpoint
+
+[33mcommit 8dfdde71b324b4c70131268bac5f8d940c1ea49e[m
+Author: JoaoVitor83 <vititor666demon@gmail.com>
+Date:   Tue May 9 21:31:01 2023 -0300
+
+    Criação do UserRepository e método para realizar inserções no db
+
+[33mcommit 419e3ffb99b356021405f927f41c0dfc3bb1a034[m
+Author: JoaoVitor83 <vititor666demon@gmail.com>
+Date:   Tue May 9 17:48:40 2023 -0300
+
+    Criação do H2 database para testes e mapeamento do user
+
+[33mcommit 1c3e194a36a99f520c8118baa482b1aa47078e5e[m
+Author: João Emboaba <84819469+JoaoVitor83@users.noreply.github.com>
+Date:   Tue May 9 17:09:37 2023 -0300
+
+    Criação do arquivo readme
+
+[33mcommit f8c819ff9748b8d64e296aeb3f138ebc30b4cea4[m
+Author: JoaoVitor83 <vititor666demon@gmail.com>
+Date:   Tue May 9 17:07:29 2023 -0300
+
+    Adicionando arquivos iniciais do projeto
