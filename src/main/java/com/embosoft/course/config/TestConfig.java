@@ -22,7 +22,7 @@ public class TestConfig implements CommandLineRunner { // Interface CommandLineR
 	private UserRepository userRepository;
 
 	@Autowired
-	private OrderRepository orderRepository;
+	private OrderRepository orderRepository; 
 
 	@Override
 	public void run(String... args) throws Exception {
