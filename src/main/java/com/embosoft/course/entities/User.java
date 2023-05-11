@@ -26,7 +26,7 @@ public class User implements Serializable { // Permite esse entidade trafegar po
 	private Long id;
 	private String name, email, phone, password;
 
-	@JsonIgnore
+	@JsonIgnore // Usado para "ignorar uma lista de propriedades"
 	@OneToMany(mappedBy = "client")
 	private List<Order> orders = new ArrayList<>();
 
