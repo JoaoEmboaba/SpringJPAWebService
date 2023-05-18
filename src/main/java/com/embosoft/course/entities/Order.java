@@ -29,7 +29,7 @@ public class Order implements Serializable {
 
 	private Integer orderStatus;
 
-	@ManyToOne // Especifica uma relação muitos para muitos
+	@ManyToOne // Especifica uma relação muitos para um
 	@JoinColumn(name = "client_id") // Especifica o nome da coluna que irá fazer a associação
 	private User client;
 
